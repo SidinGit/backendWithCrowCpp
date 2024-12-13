@@ -31,8 +31,3 @@ This project is a starting point, and the following features will be added in th
 - **Advanced Authentication**: Adding support for password hashing and possibly integrating token-based authentication (e.g., JWT) for secure login sessions.
 - **API Documentation**: We will add automatic API documentation generation (using tools like Swagger or similar) to make it easier for others to interact with the backend.
 
-### Key Points in the README:
-- **Current Features** section outlines the existing functionality (signup, login, etc.).
-- **Future Plans** section highlights the upcoming features (file upload, database integration).
-- Basic **Getting Started** instructions to clone, build, and run the project.
-- A **Technologies Used** section to specify Crow, C++, and other tools.
